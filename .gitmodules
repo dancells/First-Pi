@@ -1,0 +1,8 @@
+[submodule "software/u-boot"]
+	path = software/u-boot
+	url = https://github.com/dancells/u-boot.git
+	branch = f1c200s-v2018.01
+[submodule "software/linux"]
+	path = software/linux
+	url = https://github.com/dancells/linux.git
+	branch = f1c200s-linux-5.2
