@@ -6,3 +6,6 @@
 	path = software/linux
 	url = https://github.com/dancells/linux.git
 	branch = f1c200s-linux-5.2
+[submodule "software/toolchain/sunxi-tools"]
+	path = software/toolchain/sunxi-tools
+	url = https://github.com/Icenowy/sunxi-tools.git
